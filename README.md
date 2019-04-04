@@ -17,9 +17,13 @@ LSTM层与层之间进行dropout
 ## 文件功能介绍
 ./  
 segment.py：对训练数据进行分词，用于训练词向量
+
 data_util.py：数据处理函数
+
 LSTM.py：定义lstm模型
+
 SVM.py：svm分类器训练函数  
+
 main.py：项目主文件  
 
 ## 推荐运行环境
